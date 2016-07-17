@@ -1,9 +1,4 @@
-/*
- * Element.h
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
+
 
 #ifndef ELEMENT_H_
 #define ELEMENT_H_

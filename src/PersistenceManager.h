@@ -1,9 +1,4 @@
-/*
- * PersistenceManager.h
- *
- *  Created on: May 23, 2016
- *      Author: raydelto
- */
+
 
 #ifndef PERSISTENCEMANAGER_H_
 #define PERSISTENCEMANAGER_H_

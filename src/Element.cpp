@@ -1,9 +1,4 @@
 /*
- * Element.cpp
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
 
 #include "Element.h"
 #include <cstdlib>

@@ -1,9 +1,3 @@
-/*
- * Menu.cpp
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
 
 #include "Menu.h"
 #include <iostream>
